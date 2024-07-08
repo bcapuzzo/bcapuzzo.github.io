@@ -46,9 +46,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile-pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brendan and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Brendan Capuzzo and I am a master's student at Rensselaer Polytechnic Institute (RPI) studying Computer Science with an expected graduation of December 2024. I recently completed my B.S. in Computer & Systems Engineering and Computer Science at RPI in December 2023.
+  
+  Driven and highly motivated student with an interest in emerging technologies, computer networking, and software. Pursuing a master's degree to further refine my technical expertise and contribute to innovations across the technology industry. Possessing strong programming skills and a collaborative mindset, I am committed to making a positive impact in the field of computer science and actively seeking opportunities to learn and grow in a dynamic and innovative environment. Proven success in multiple software engineering internships through collaboration, coding projects, and organizational skills.Driven and highly motivated student with an interest in emerging technologies, computer networking, and software. Pursuing a master's degree to further refine my technical expertise and contribute to innovations across the technology industry. Possessing strong programming skills and a collaborative mindset, I am committed to making a positive impact in the field of computer science and actively seeking opportunities to learn and grow in a dynamic and innovative environment. Proven success in multiple software engineering internships through collaboration, coding projects, and organizational skills.
 
   I am most skilled in: <mark>C++</mark> and <mark>Python</mark>.
 
@@ -81,6 +83,17 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineering Intern
         caption: June 2024 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+      - layout: left
+        title: Principal Financial Group
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineering Intern
+        caption: May 2023 - August 2023
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
