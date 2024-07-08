@@ -100,9 +100,9 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          - Executed in an Agile environment with embedded software systems and performed bench testing on processors
-          - Utilized object-oriented programming and data structures to implement software designs with UML diagrams
-          - Collaborated on a team project which featured the design of a smart home lighting and shading system
+          - Supported the data management team in improving data security through encryption, monitoring, and analysis efforts
+          - Applied analytical skills to identify and address vulnerabilities in consumer data practices, ensuring data privacy 
+          - Engaged in learning and professional growth by pursuing additional technical experience in Salesforce CRM
 
       - layout: left
         title: Lutron Electronics
