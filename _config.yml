@@ -1,6 +1,8 @@
 # Site
 repository: bcapuzzo/bcapuzzo.github.io
-favicon: images/favicon.ico
+# favicon: images/favicon.ico
+favicon: images/profile-pic.jpg
+
 
 # Content configuration version
 version: 2
