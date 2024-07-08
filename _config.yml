@@ -127,8 +127,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - GPA: 3.91
           - Concentration: Artificial Intelligence, Machine Learning, & Data
+          - GPA: 3.91
           - Coursework: Cryptography and Network Security, Distributed Systems and Algorithms, Graph Theory
 
       - layout: left
@@ -138,11 +138,11 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - GPA: 3.70
           - Minor: Economics of Banking and Finance
           - Concentrations: Theory, Algorithms, & Mathematics and Artificial Intelligence & Data
+          - GPA: 3.70
           - Accomplishments: *magna cum laude*, Dean's Honor List (7 semesters), RPI Medal Award (June 2019)
-          - Coursework: Database Systems, Programming Languages, Design and Analysis of Algorithms, Machine Learning and Optimization, Introduction to Artificial Intelligence, Signals and Systems, Introduction to Electronics, Operating Systems, Principles of Software, Introduction to Algorithms, Electric Circuits, Foundations of Computer Science, Data Structures, Computer Architecture, Networks, & Operating Systems, Computer Components & Operations, Embedded Control, Introduction to Engineering Design, Engineering Communications & CAD, Modeling & Analysis of Uncertainty
+          - Coursework: Database Systems, Programming Languages, Design and Analysis of Algorithms, Machine Learning and Optimization, Intro to Artificial Intelligence, Signals and Systems, Intro to Electronics, Operating Systems, Principles of Software, Electric Circuits, Data Structures, Computer Architecture & Networks, Computer Components & Operations, Embedded Control, Intro to Engineering Design, Engineering Communications & CAD, Modeling & Analysis of Uncertainty
 
 
   # - title: A Little More About Me
