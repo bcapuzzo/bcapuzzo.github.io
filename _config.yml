@@ -176,8 +176,8 @@ content:
         title: Smart Dormitory - Node-RED
         caption: Aug 2023 - Dec 2023
         sub_title: Rensselaer Polytechnic Institute
-        link: /assets/Final Design Poster - Smart Dormitory - Node-RED.pdf
-        link_text: Design Poster
+        # link: /assets/Final Design Poster - Smart Dormitory - Node-RED.pdf
+        # link_text: Design Poster
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -185,6 +185,7 @@ content:
           - Coordinated the enhancement of a low-code Smart Dormitory project which featured an IoT network of ESP32 devices with sensors connected through Arduino IDE and data visualizations powered by Node-RED
           - Integrated JavaScript and SQL to optimize query generation for MySQL database in order to efficiently retrieve historical sensor data and display on a website dashboard through graphs, charts, and heat maps
           - Executed strong project management skills through enhancements and coordinating the team's focus on scalability, energy efficiency, and security for students, building maintenance, and developers
+          [Download Design Poster](assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf)
 
       - layout: left
         title: SMART Pregnancy Band
