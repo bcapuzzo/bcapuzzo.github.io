@@ -37,8 +37,9 @@ additional_links:
   icon: fas fa-globe
   url: https://meritpages.com/brendan-capuzzo
 - title: Download Resume
-  icon: far fa-file-pdf
-  url: <a href="assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf" target="_blank">Download Design Poster</a>
+    icon: far fa-file-pdf
+    url: /assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf
+    target: "_blank"
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
