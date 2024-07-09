@@ -85,7 +85,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineering Intern
         caption:
-          June 2024 - Present
+          Jun 2024 - Present
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         # description: | # this will include new lines to allow paragraphs
@@ -96,7 +96,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Software Engineering Intern
-        caption: May 2023 - August 2023
+        caption: May 2023 - Aug 2023
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -109,7 +109,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Software Engineering Intern
-        caption: September 2022 - December 2022
+        caption: Sep 2022 - Dec 2022
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -143,6 +143,67 @@ content:
           - GPA: 3.70
           - Accomplishments: *magna cum laude*, Dean's Honor List (7 semesters), RPI Medal Award (June 2019)
           - Coursework: Database Systems, Programming Languages, Design and Analysis of Algorithms, Machine Learning and Optimization, Intro to Artificial Intelligence, Signals and Systems, Intro to Electronics, Operating Systems, Principles of Software, Electric Circuits, Data Structures, Computer Architecture & Networks, Computer Components & Operations, Embedded Control, Intro to Engineering Design, Engineering Communications & CAD, Modeling & Analysis of Uncertainty
+ 
+  - title: Organizations # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Theta Xi Fraternity
+        caption: Dec 2021 - Present
+        sub_title: Rensselaer Polytechnic Institute
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          - Awards: George M. Baker Memorial Award (Apr 2024)
+          - Positions Held: Scholarship Chairman (Apr 2023 - Dec 2023), Vice President / Risk Management Chairman (Dec 2022 - Apr 2023)
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: MIT App Inventor Punya AI Explainability
+        caption: Jan 2024 - Present
+        sub_title: Rensselaer Polytechnic Institute
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Master's Research Project, Dr. Oshani Seneviratne
+        
+      - layout: left
+        title: Smart Dormitory - Node-RED
+        caption: Aug 2023 - Dec 2023
+        sub_title: Rensselaer Polytechnic Institute
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Multidisciplinary Capstone Design, Fall 2023, Dr. Dennis Shelden
+          - Coordinated the enhancement of a low-code Smart Dormitory project which featured an IoT network of ESP32 devices with sensors connected through Arduino IDE and data visualizations powered by Node-RED
+          - Integrated JavaScript and SQL to optimize query generation for MySQL database in order to efficiently retrieve historical sensor data and display on a website dashboard through graphs, charts, and heat maps
+          - Executed strong project management skills through enhancements and coordinating the team's focus on scalability, energy efficiency, and security for students, building maintenance, and developers
+
+      - layout: left
+        title: SMART Pregnancy Band
+        caption: Jun 2022 - Aug 2022
+        sub_title: Rensselaer Polytechnic Institute
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Introduction to Engineering Design, Summer 2022, Dr. George Lee
+          - Followed the engineering design process with a team of six students to develop a functional prototype for a SMART Pregnancy Band which featured a back-supporting band with medical sensors and mobile app compatibility
+          - Led the team by working on the user interface subsystem by developing a mobile app that was built using MIT App Inventor 2 and intended to be used by pregnant women to track health data and prevent maternal deaths
+          - The app featured nine screens with navigation bar and Bluetooth compatibility which was outlined in wireframe flow
+
+      - layout: left
+        title: Astro AutoTint
+        caption: Jan 2022 - May 2022
+        sub_title: Rensselaer Polytechnic Institute
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Electric Circuits, Spring 2022, Dr. Shayla Sawyer
+          - Developed an Astro AutoTint electric circuit project in a team of three students that used a photoresistor to detect harmful light levels and adjust the shading of an electrochromic glass that could help astronauts in space
+          - Utilized LTspice to create circuit schematics and Microsoft Word to develop a project manual demonstrating circuit concepts such as voltage followers, summers, comparators, inverting amplifiers, differentiators, and filters
+          - Built and tested physical circuits using a breadboard, wires, operational amplifiers, power lines, and AC power
 
 
   # - title: A Little More About Me
