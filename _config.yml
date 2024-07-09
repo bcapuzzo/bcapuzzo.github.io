@@ -1,8 +1,6 @@
 # Site
 repository: bcapuzzo/bcapuzzo.github.io
-# favicon: images/favicon.ico
 favicon: images/profile-pic.jpg
-
 
 # Content configuration version
 version: 2
@@ -19,8 +17,8 @@ darkmode: false
 # Social links
 linkedin_username: brendan-capuzzo
 github_username:  bcapuzzo
-# instagram_username: bcap5
-# twitter_username: bcapuzzo5
+# instagram_username:
+# twitter_username:
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
