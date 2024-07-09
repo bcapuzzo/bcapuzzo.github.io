@@ -176,7 +176,7 @@ content:
         title: Smart Dormitory - Node-RED
         caption: Aug 2023 - Dec 2023
         sub_title: Rensselaer Polytechnic Institute
-        # link: /assets/Final Design Poster - Smart Dormitory - Node-RED.pdf
+        link: <a href="assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf" target="_blank">Download Design Poster</a>
         # link_text: Design Poster
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
