@@ -133,7 +133,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Concentration: Artificial Intelligence, Machine Learning, & Data
           - GPA: 3.91
-          - Coursework: Cryptography and Network Security, Distributed Systems and Algorithms, Graph Theory
+          - Coursework: Cryptography and Network Security, Distributed Systems and Algorithms, Graph Theory, Data Science, Software Design and Documentation, Mobile AI Explainability, Sense Making and Computation
 
       - layout: left
         title: Rensselaer Polytechnic Institute
