@@ -51,11 +51,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile-pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Brendan Capuzzo and I am a master's student at Rensselaer Polytechnic Institute (RPI) studying Computer Science with an expected graduation in December 2024. I recently completed my B.S. in Computer & Systems Engineering and Computer Science at RPI in December 2023.
+  Hi, my name is Brendan Capuzzo and I am a software engineer at Microsoft. I recently received my M.S. in Computer Science and B.S. in Computer & Systems Engineering and Computer Science from Rensselaer Polytechnic Institute (RPI).
   
-  Driven and highly motivated student with an interest in emerging technologies, computer networking, and software. Pursuing a master's degree to further refine my technical expertise and contribute to innovations across the technology industry. Possessing strong programming skills and a collaborative mindset, I am committed to making a positive impact in the field of computer science and actively seeking opportunities to learn and grow in a dynamic and innovative environment. Proven success in multiple software engineering internships through collaboration, coding projects, and organizational skills.
-  
-  I am most skilled in: <mark>C++</mark> and <mark>Python</mark>.
+  Driven and highly motivated professional with an interest in emerging technologies, computer networking, and software development. With a master's degree in computer science, I have refined my technical expertise and am passionate about contributing to innovations across the technology industry. Equipped with strong programming skills, a collaborative mindset, and a commitment to continuous learning, I strive to make a positive impact in the field of computer science. I am eager to tackle challenging problems, deliver impactful solutions, and grow in a dynamic and innovative environment.
+
+  I am most skilled in: <mark>C++</mark>, <mark>Swift</mark>, and <mark>Python</mark>.
 
 content:
   # - title: Projects # Title for the section
@@ -132,7 +132,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           - Concentration: Artificial Intelligence, Machine Learning, & Data
-          - GPA: 3.91
+          - GPA: 3.95
           - Coursework: Cryptography and Network Security, Distributed Systems and Algorithms, Graph Theory, Data Science, Software Design and Documentation, Mobile AI Explainability, Sense Making and Computation
 
       - layout: left
@@ -153,17 +153,32 @@ content:
     content:
       - layout: left
         title: MIT App Inventor Punya AI Explainability
-        caption: Jan 2024 - Present
+        caption: Jan 2024 - Dec 2024
         sub_title: Rensselaer Polytechnic Institute
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Master's Research Project, Dr. Oshani Seneviratne
-          - Developing an AI explainability component for Punya, an MIT App Inventor extension
-          - Modifying the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions
-          - Enhancing AI transparency and trust on mobile platforms by improving the interpretability of AI models, ensuring that non-expert users can easily comprehend, trust, and interact with the AI’s reasoning
-          - Collaborating with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methods
-        
+          - Developed an AI explainability component for Punya, an MIT App Inventor extension
+          - Modified the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions
+          - Enhanced AI transparency and trust on mobile platforms by improving the interpretability of AI models, ensuring that non-expert users can easily comprehend, trust, and interact with the AI’s reasoning
+          - Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methodsMaster's Research Project, Dr. Oshani Seneviratne • Developed an AI explainability component for Punya, an MIT App Inventor extension • Modified the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions • Enhanced AI transparency and trust on mobile platforms by improving the interpretability of AI models, ensuring that non-expert users can easily comprehend, trust, and interact with the AI’s reasoning • Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methods
+
+      - layout: left
+        title: Dinder: Social Restaurant Finder
+        link: https://github.com/bcapuzzo/Dinder
+        link_text: GitHub Repository
+        caption: Sep 2024 - Dec 2024
+        sub_title: Rensselaer Polytechnic Institute
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Software Design and Documentation, Fall 2024, Professor John Sturman
+          - Developed a full-stack web application using the MERN stack (MongoDB, Express, React, Node.js), building a responsive frontend in React for real-time group decision-making on restaurant selectionModified the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions
+          - Integrated Google Places API for restaurant data retrieval with a ranking algorithm that optimizes group preferences for cuisine, price, rating, and location
+          - Implemented a swipe-based matching algorithm with WebSocket sessions for live group matching results
+          - Led a cross-functional team using Agile methodologies, managing milestones with Jira, version control with GitHub, and deploying a scalable backend on MongoDB
+
       - layout: left
         title: Smart Dormitory - Node-RED
         caption: Aug 2023 - Dec 2023
@@ -209,13 +224,13 @@ content:
     content:
       - layout: left
         title: Theta Xi Fraternity
-        caption: Dec 2021 - Present
+        caption: Dec 2021 - Dec 2024
         sub_title: Rensselaer Polytechnic Institute
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           - Honors: George M. Baker Memorial Award (Apr 2024)
-          - Positions: Facilities Manager (Apr 2024 - Present), Scholarship Chairman (Apr 2023 - Dec 2023), Vice President / Risk Management Chairman (Dec 2022 - Apr 2023)
+          - Positions: Facilities Manager (Apr 2024 - Dec 2024), Scholarship Chairman (Apr 2023 - Dec 2023), Vice President / Risk Management Chairman (Dec 2022 - Apr 2023)
 
   # - title: A Little More About Me
   #   layout: text
