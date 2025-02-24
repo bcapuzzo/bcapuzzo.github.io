@@ -165,7 +165,7 @@ content:
           - Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methodsMaster's Research Project, Dr. Oshani Seneviratne • Developed an AI explainability component for Punya, an MIT App Inventor extension • Modified the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions • Enhanced AI transparency and trust on mobile platforms by improving the interpretability of AI models, ensuring that non-expert users can easily comprehend, trust, and interact with the AI’s reasoning • Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methods
 
       - layout: left
-        title: Dinder: Social Restaurant Finder
+        title: Dinder - Social Restaurant Finder
         link: https://github.com/bcapuzzo/Dinder
         link_text: GitHub Repository
         caption: Sep 2024 - Dec 2024
