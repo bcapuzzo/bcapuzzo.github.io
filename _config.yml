@@ -31,9 +31,9 @@ github_username:  bcapuzzo
 
 # Additional icon links
 additional_links:
-- title: Merit Pages link
-  icon: fas fa-globe
-  url: https://meritpages.com/brendan-capuzzo
+# - title: Merit Pages link
+#   icon: fas fa-globe
+#   url: https://meritpages.com/brendan-capuzzo
 # - title: Download Resume
 #   icon: far fa-file-pdf
 #   url: /assets/Final Design Poster - Smart Dormitory - Node-RED.pdf
