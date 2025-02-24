@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Brendan Capuzzo
-title: Computer Science Master's Student at Rensselaer Polytechnic Institute
+title: Software Engineer at Microsoft
 email: bcapuzzo5@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -80,6 +80,12 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Microsoft
+        sub_title: Software Engineer
+        caption:
+          Jan 2025 - Present
+
       - layout: left
         title: Microsoft
         link: https://learn.microsoft.com/en-us/mem/intune/developer/app-sdk-get-started
