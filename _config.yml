@@ -84,7 +84,7 @@ content:
         title: Microsoft
         sub_title: Software Engineer
         caption:
-          Jan 2025 - Present
+          Jan 2025 – Present
 
       - layout: left
         title: Microsoft
@@ -92,7 +92,7 @@ content:
         link_text: Microsoft Intune App SDK
         sub_title: Software Engineering Intern
         caption:
-          Jun 2024 - Aug 2024
+          Jun 2024 – Aug 2024
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -106,7 +106,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Software Engineering Intern
-        caption: May 2023 - Aug 2023
+        caption: May 2023 – Aug 2023
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -119,7 +119,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Software Engineering Intern
-        caption: Sep 2022 - Dec 2022
+        caption: Sep 2022 – Dec 2022
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -132,7 +132,7 @@ content:
     content:
       - layout: left
         title: Rensselaer Polytechnic Institute
-        caption: Jan 2024 - Dec 2024
+        caption: Jan 2024 – Dec 2024
         sub_title: M.S. Computer Science
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -143,7 +143,7 @@ content:
 
       - layout: left
         title: Rensselaer Polytechnic Institute
-        caption: Aug 2020 - Dec 2023
+        caption: Aug 2020 – Dec 2023
         sub_title: B.S. Computer & Systems Engineering and Computer Science
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -159,7 +159,7 @@ content:
     content:
       - layout: left
         title: MIT App Inventor Punya AI Explainability
-        caption: Jan 2024 - Dec 2024
+        caption: Jan 2024 – Dec 2024
         sub_title: Rensselaer Polytechnic Institute
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -171,10 +171,10 @@ content:
           - Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methods
 
       - layout: left
-        title: Dinder - Social Restaurant Finder
+        title: Dinder – Social Restaurant Finder
         link: https://github.com/bcapuzzo/Dinder
         link_text: GitHub Repository
-        caption: Sep 2024 - Dec 2024
+        caption: Sep 2024 – Dec 2024
         sub_title: Rensselaer Polytechnic Institute
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -186,8 +186,8 @@ content:
           - Led a cross-functional team using Agile methodologies, managing milestones with Jira, version control with GitHub, and deploying a scalable backend on MongoDB
 
       - layout: left
-        title: Smart Dormitory - Node-RED
-        caption: Aug 2023 - Dec 2023
+        title: Smart Dormitory – Node-RED
+        caption: Aug 2023 – Dec 2023
         sub_title: Rensselaer Polytechnic Institute
         # link: <a href="assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf" target="_blank">Download Design Poster</a>
         # link_text: Design Poster
@@ -203,7 +203,7 @@ content:
 
       - layout: left
         title: SMART Pregnancy Band
-        caption: Jun 2022 - Aug 2022
+        caption: Jun 2022 – Aug 2022
         sub_title: Rensselaer Polytechnic Institute
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -215,7 +215,7 @@ content:
 
       - layout: left
         title: Astro AutoTint
-        caption: Jan 2022 - May 2022
+        caption: Jan 2022 – May 2022
         sub_title: Rensselaer Polytechnic Institute
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -230,13 +230,13 @@ content:
     content:
       - layout: left
         title: Theta Xi Fraternity
-        caption: Dec 2021 - Dec 2024
+        caption: Dec 2021 – Dec 2024
         sub_title: Rensselaer Polytechnic Institute
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           - Honors: George M. Baker Memorial Award (Apr 2024)
-          - Positions: Facilities Manager (Apr 2024 - Dec 2024), Scholarship Chairman (Apr 2023 - Dec 2023), Vice President / Risk Management Chairman (Dec 2022 - Apr 2023)
+          - Positions: Facilities Manager (Apr 2024 – Dec 2024), Scholarship Chairman (Apr 2023 – Dec 2023), Vice President / Risk Management Chairman (Dec 2022 – Apr 2023)
 
   # - title: A Little More About Me
   #   layout: text
