@@ -12,7 +12,7 @@ email: bcapuzzo5@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 linkedin_username: brendan-capuzzo
@@ -168,7 +168,7 @@ content:
           - Developed an AI explainability component for Punya, an MIT App Inventor extension
           - Modified the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions
           - Enhanced AI transparency and trust on mobile platforms by improving the interpretability of AI models, ensuring that non-expert users can easily comprehend, trust, and interact with the AI’s reasoning
-          - Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methodsMaster's Research Project, Dr. Oshani Seneviratne • Developed an AI explainability component for Punya, an MIT App Inventor extension • Modified the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions • Enhanced AI transparency and trust on mobile platforms by improving the interpretability of AI models, ensuring that non-expert users can easily comprehend, trust, and interact with the AI’s reasoning • Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methods
+          - Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methods
 
       - layout: left
         title: Dinder - Social Restaurant Finder
@@ -263,3 +263,7 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+# SEO settings
+description: "Software Engineer specializing in C++, Swift, and Python. Master's in Computer Science from RPI."
+keywords: "software engineer, C++, Swift, Python, RPI, computer science"
