@@ -180,7 +180,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Software Design and Documentation, Fall 2024, Professor John Sturman
-          - Developed a full-stack web application using the MERN stack (MongoDB, Express, React, Node.js), building a responsive frontend in React for real-time group decision-making on restaurant selectionModified the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions
+          - Developed a full-stack web application using the MERN stack (MongoDB, Express, React, Node.js), building a responsive frontend in React for real-time group decision-making on restaurant selection
           - Integrated Google Places API for restaurant data retrieval with a ranking algorithm that optimizes group preferences for cuisine, price, rating, and location
           - Implemented a swipe-based matching algorithm with WebSocket sessions for live group matching results
           - Led a cross-functional team using Agile methodologies, managing milestones with Jira, version control with GitHub, and deploying a scalable backend on MongoDB
