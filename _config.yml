@@ -126,7 +126,31 @@ content:
           - Executed in an Agile environment with embedded software systems and performed bench testing on processors
           - Utilized object-oriented programming and data structures to implement software designs with UML diagrams
           - Collaborated on a team project which featured the design of a smart home lighting and shading system
+  
+  # New skills section
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        title: Programming Languages
+        description: | # this will include new lines to allow paragraphs
+          - **Proficient:** C++, Python, Swift, JavaScript
+          - **Familiar:** Java, SQL, HTML/CSS
 
+      - layout: left
+        title: Technologies & Frameworks
+        description: |
+          - **Web Development:** React, Node.js, Express, MongoDB, REST APIs
+          - **Mobile Development:** iOS Development, SwiftUI, UIKit
+          - **Developer Tools:** Git, GitHub, VS Code, Xcode
+
+      - layout: left
+        title: Professional Skills
+        description: |
+          - **Development:** Agile Methodologies, Test-Driven Development
+          - **Tools:** Jira, Confluence, Docker
+          - **Soft Skills:** Technical Leadership, Project Management, Cross-functional Collaboration
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -267,27 +291,3 @@ plugins:
 # SEO settings
 description: "Software Engineer specializing in C++, Swift, and Python. Master's in Computer Science from RPI."
 keywords: "software engineer, C++, Swift, Python, RPI, computer science"
-
-# New skills section
-- title: Skills
-  layout: list
-  content:
-    - layout: left
-      title: Programming Languages
-      description: | # this will include new lines to allow paragraphs
-        - **Proficient:** C++, Python, Swift, JavaScript
-        - **Familiar:** Java, SQL, HTML/CSS
-
-    - layout: left
-      title: Technologies & Frameworks
-      description: |
-        - **Web Development:** React, Node.js, Express, MongoDB, REST APIs
-        - **Mobile Development:** iOS Development, SwiftUI, UIKit
-        - **Developer Tools:** Git, GitHub, VS Code, Xcode
-
-    - layout: left
-      title: Professional Skills
-      description: |
-        - **Development:** Agile Methodologies, Test-Driven Development
-        - **Tools:** Jira, Confluence, Docker
-        - **Soft Skills:** Technical Leadership, Project Management, Cross-functional Collaboration
