@@ -167,7 +167,7 @@ content:
           Master's Research Project, Dr. Oshani Seneviratne
           - Developed an AI explainability component for Punya, an MIT App Inventor extension
           - Modified the AI reasoner component in Punya to generate human-readable explanations for AI-driven decisions
-          - Enhanced AI transparency and trust on mobile platforms by improving the interpretability of AI models, ensuring that non-expert users can easily comprehend, trust, and interact with the AI’s reasoning
+          - Enhanced AI transparency and trust on mobile platforms by improving the interpretability of AI models, ensuring that non-expert users can easily comprehend, trust, and interact with the AI's reasoning
           - Collaborated with a team to optimize the responsiveness and user understanding of reasoner outcomes through the evaluation of explainability methods
 
       - layout: left
@@ -267,3 +267,27 @@ plugins:
 # SEO settings
 description: "Software Engineer specializing in C++, Swift, and Python. Master's in Computer Science from RPI."
 keywords: "software engineer, C++, Swift, Python, RPI, computer science"
+
+# New skills section
+- title: Skills
+  layout: list
+  content:
+    - layout: left
+      title: Programming Languages
+      description: | # this will include new lines to allow paragraphs
+        - **Proficient:** C++, Python, Swift, JavaScript
+        - **Familiar:** Java, SQL, HTML/CSS
+
+    - layout: left
+      title: Technologies & Frameworks
+      description: |
+        - **Web Development:** React, Node.js, Express, MongoDB, REST APIs
+        - **Mobile Development:** iOS Development, SwiftUI, UIKit
+        - **Developer Tools:** Git, GitHub, VS Code, Xcode
+
+    - layout: left
+      title: Professional Skills
+      description: |
+        - **Development:** Agile Methodologies, Test-Driven Development
+        - **Tools:** Jira, Confluence, Docker
+        - **Soft Skills:** Technical Leadership, Project Management, Cross-functional Collaboration
