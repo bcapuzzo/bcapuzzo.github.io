@@ -134,13 +134,13 @@ content:
       - layout: left
         title: Programming Languages
         description: | # this will include new lines to allow paragraphs
-          - **Proficient:** C++, Python, Swift, JavaScript
-          - **Familiar:** Java, SQL, HTML/CSS
+          - **Proficient:** C++, Python, Swift, Java
+          - **Familiar:** JavaScript, SQL, HTML/CSS
 
       - layout: left
         title: Technologies & Frameworks
         description: |
-          - **Web Development:** React, Node.js, Express, MongoDB, REST APIs
+          - **Web Development:** React, Node.js, Express, MongoDB
           - **Mobile Development:** iOS Development, SwiftUI, UIKit
           - **Developer Tools:** Git, GitHub, VS Code, Xcode
 
@@ -148,7 +148,7 @@ content:
         title: Professional Skills
         description: |
           - **Development:** Agile Methodologies, Test-Driven Development
-          - **Tools:** Jira, Confluence, Docker
+          - **Tools:** Jira, Confluence, Docker, Azure DevOps
           - **Soft Skills:** Technical Leadership, Project Management, Cross-functional Collaboration
           
   - title: Education # Title for the section
