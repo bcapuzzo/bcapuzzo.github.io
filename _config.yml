@@ -183,6 +183,8 @@ content:
     content:
       - layout: left
         title: MIT App Inventor Punya AI Explainability
+        link: https://bcapuzzo.github.io/assets/Master's%20Project%20Poster%20-%20MIT%20App%20Inventor%20Punya%20AI%20Reasoning%20Explainability.pdf
+        link_text: Master's Project Poster
         caption: Jan 2024 – Dec 2024
         sub_title: Rensselaer Polytechnic Institute
         # quote: >
@@ -215,6 +217,8 @@ content:
         link_text: Design Poster
         caption: Aug 2023 – Dec 2023
         sub_title: Rensselaer Polytechnic Institute
+        # link: <a href="assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf" target="_blank">Download Design Poster</a>
+        # link_text: Design Poster
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -223,7 +227,7 @@ content:
           - Integrated JavaScript and SQL to optimize query generation for MySQL database in order to efficiently retrieve historical sensor data and display on a website dashboard through graphs, charts, and heat maps
           - Executed strong project management skills through enhancements and coordinating the team's focus on scalability, energy efficiency, and security for students, building maintenance, and developers
           
-          <a href="assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin-top: 10px; font-weight: 500;">📄 View Design Poster</a>
+         # <a href="assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin-top: 10px; font-weight: 500;">📄 View Design Poster</a>
 
       - layout: left
         title: SMART Pregnancy Band
