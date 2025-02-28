@@ -223,7 +223,7 @@ content:
           - Integrated JavaScript and SQL to optimize query generation for MySQL database in order to efficiently retrieve historical sensor data and display on a website dashboard through graphs, charts, and heat maps
           - Executed strong project management skills through enhancements and coordinating the team's focus on scalability, energy efficiency, and security for students, building maintenance, and developers
           
-          <a href="assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf" target="_blank" style="color: black">Design Poster</a>
+          <a href="assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin-top: 10px; font-weight: 500;">📄 View Design Poster</a>
 
       - layout: left
         title: SMART Pregnancy Band
