@@ -211,7 +211,7 @@ content:
 
       - layout: left
         title: Smart Dormitory – Node-RED
-        link: assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf
+        link: https://bcapuzzo.github.io/assets/Final%20Design%20Poster%20-%20Smart%20Dormitory%20-%20Node-RED.pdf
         link_text: Design Poster
         caption: Aug 2023 – Dec 2023
         sub_title: Rensselaer Polytechnic Institute
