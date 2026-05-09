@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Driven and highly motivated professional with an interest in emerging technologies, computer networking, and software development. With a master's degree in computer science, I have refined my technical expertise and am passionate about contributing to innovations across the technology industry. Equipped with strong programming skills, a collaborative mindset, and a commitment to continuous learning, I strive to make a positive impact in the field of computer science. I am eager to tackle challenging problems, deliver impactful solutions, and grow in a dynamic and innovative environment.
 
-  I am most skilled in: <mark>C++</mark>, <mark>Swift</mark>, and <mark>Python</mark>.
+  I am most skilled in: <mark>Obj-C</mark>, <mark>Swift</mark>, <mark>C++</mark>, and <mark>Python</mark>.
 
 content:
   # - title: Projects # Title for the section
@@ -141,7 +141,7 @@ content:
       - layout: left
         title: Programming Languages
         description: | # this will include new lines to allow paragraphs
-          - **Proficient:** C++, Python, Swift, Java
+          - **Proficient:** Obj-C, Swift, C++, Python, Java
           - **Familiar:** JavaScript, SQL, HTML/CSS
 
       - layout: left
