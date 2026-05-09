@@ -85,6 +85,13 @@ content:
         sub_title: Software Engineer
         caption:
           Jan 2025 – Present
+        description: | # this will include new lines to allow paragraphs
+          - Engineer on the iOS Tunnel SDK for Microsoft Intune, building enterprise VPN and mobile-security capabilities for secure access to corporate resources on managed iOS devices worldwide across large-scale enterprise environments
+          - Own end-to-end SDK release management across Mobile Application Management (MAM) and Mobile Device Management (MDM) capabilities, including branch strategy, testing coordination, binary publishing, and major release and rapid hotfix delivery
+          - Drive networking, reliability, and architecture improvements across the SDK while resolving high-severity enterprise issues
+          - Lead the team’s test automation strategy through UI test and CI/CD infrastructure, automated regression coverage, telemetry instrumentation, and internal debugging and validation tooling
+          - Partner across Microsoft Edge, Defender, and support engineering teams to troubleshoot cross-product issues and improve live-site reliability
+          - Integrate AI-assisted engineering tools, including GitHub Copilot, Copilot CLI, and SWE Agent, into development workflows while reviewing AI-agent-generated code for security and quality standards
 
       - layout: left
         title: Microsoft
